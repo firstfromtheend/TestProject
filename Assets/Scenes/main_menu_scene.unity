@@ -309,6 +309,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ChangeScene
       objectReference: {fileID: 0}
+    - target: {fileID: 6175716605471261096, guid: 9f868511e6bc46d489ae7cac1b40ca62, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f868511e6bc46d489ae7cac1b40ca62, type: 3}
 --- !u!1001 &6555818616822459146
@@ -318,6 +322,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6555818616750420042, guid: 67b59ec58d2421942bcdb6709d9e48b3, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2ed68b21b7e44be49a96c5a6fc081a64, type: 3}
+    - target: {fileID: 6555818616750420042, guid: 67b59ec58d2421942bcdb6709d9e48b3, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6555818617225675497, guid: 67b59ec58d2421942bcdb6709d9e48b3, type: 3}
       propertyPath: m_Name
       value: ===system_elements===

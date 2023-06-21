@@ -213,6 +213,38 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 6175716605304761366}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: fcb86f97bbd598544aeef3275c796060, type: 2}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -4778680315183625044, guid: fcb86f97bbd598544aeef3275c796060, type: 2}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565148474385760760, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7df721091d7c9b34b82d3eef1016915f, type: 3}
 --- !u!224 &6175716605471261095 stripped
