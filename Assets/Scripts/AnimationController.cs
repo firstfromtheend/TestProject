@@ -13,6 +13,5 @@ public class AnimationController : MonoBehaviour, IPointerClickHandler
     {
         _animator.Rebind();
         _animator.Play("anim_1_spin_animation");
-        Debug.Log($"{eventData.clickCount}");
     }
 }
